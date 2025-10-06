@@ -1,4 +1,4 @@
-<!-- 💼 GitHub Profile README - Juan Esteban Dorado Osorio -->
+<!-- GitHub Profile README - Juan Esteban Dorado Osorio -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:405EFF,100:00D4FF&height=180&section=header&text=Juan%20Esteban%20Dorado%20Osorio&fontSize=30&fontColor=ffffff&animation=fadeIn" />
@@ -11,23 +11,23 @@
 
 ---
 
-## 📍 About Me
+## About Me
 
-I am a dedicated and detail-oriented **Web Developer** with solid experience in **front-end and back-end** technologies.  
-Focused on building scalable, efficient, and user-friendly web applications using **Laravel**, **JavaScript**, and **MySQL**.  
-Strong collaborator with excellent problem-solving and communication skills, always eager to learn and adopt new technologies.
+I am a dedicated and detail-oriented web developer with solid experience in front-end and back-end technologies.  
+Focused on building scalable, efficient, and user-friendly web applications using Laravel, JavaScript, and MySQL.  
+Strong collaborator with excellent problem-solving and communication skills, eager to learn and adapt to new technologies.
 
 ---
 
-## 🧠 Technical Skills
+## Technical Skills
 
-| **Category**        | **Technologies**                                                                 |
-|----------------------|----------------------------------------------------------------------------------|
-| **Front-End**        | HTML5 · CSS3 · JavaScript (ES6+) · Responsive Design · Bootstrap                 |
-| **Back-End**         | PHP · Laravel Framework · MySQL · RESTful APIs                                   |
-| **Version Control**  | Git · GitHub                                                                     |
-| **Tools**            | Visual Studio Code · Postman · Figma · XAMPP                                     |
-| **Other**            | Java (basic) · Node.js (basic) · Office 365 Cloud Tools                          |
+| Category | Technologies |
+|-----------|---------------|
+| **Front-End** | HTML5 · CSS3 · JavaScript (ES6+) · Responsive Design · Bootstrap |
+| **Back-End** | PHP · Laravel Framework · MySQL · RESTful APIs |
+| **Version Control** | Git · GitHub |
+| **Tools** | Visual Studio Code · Postman · Figma · XAMPP |
+| **Other** | Java (basic) · Node.js (basic) · Office 365 Cloud Tools |
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,bootstrap,git,github,figma,vscode,postman" />
@@ -35,48 +35,47 @@ Strong collaborator with excellent problem-solving and communication skills, alw
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### Web Developer — Universidad Santiago de Cali (DGI Project)  
 **2024 – Present**
 
-Contributing to the university’s **Information Management System**, focusing on optimization, module development, and user experience.  
+Contributing to the university’s Information Management System, focusing on optimization, module development, and user experience.  
 
-**Main Responsibilities:**
+**Responsibilities:**  
 - Developed scalable and modular front-end and back-end components using Laravel and JavaScript.  
-- Enhanced system performance with optimized database queries and reusable architecture.  
-- Collaborated with multiple departments to improve system usability and efficiency.  
-- Managed Git-based workflows for version control and collaborative updates.
+- Enhanced performance with optimized database queries and reusable architecture.  
+- Collaborated with departments to improve usability and workflow efficiency.  
+- Managed Git-based workflows for version control and collaboration.
 
 ---
 
 ### Freelance Developer  
 **2022 – 2023**
 
-Created web solutions for small businesses, including landing pages and inventory management systems.  
+Developed web solutions for small businesses, including landing pages and inventory management systems.  
 
-**Key Achievements:**
+**Highlights:**  
 - Designed responsive, modern interfaces with clean UI/UX principles.  
-- Delivered end-to-end PHP and MySQL solutions.  
-- Improved SEO and user accessibility for clients.
+- Delivered full PHP and MySQL solutions.  
+- Improved SEO performance and accessibility for clients.
 
 ---
 
-## 🎓 Education
+## Education
 
-**Technologist in Systems** — *Universidad Santiago de Cali*  
-**2021 – Present**  
+**Technologist in Systems** — Universidad Santiago de Cali  
+**2021 – Present**
 
 Focus: Software Development, Databases, and Web Technologies.  
-Currently developing the degree project **Smart Parking Management System with Computer Vision**  
-*(Python + OpenCV + Database Integration)*.
+Currently developing the degree project *Smart Parking Management System with Computer Vision* (Python + OpenCV + MySQL).
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### DGI – Information Management System  
-Comprehensive university management system that supports academic and administrative processes.  
+Comprehensive university management system supporting academic and administrative processes.  
 **Stack:** Laravel · JavaScript · MySQL · Bootstrap  
 **Role:** Full-Stack Developer  
 
@@ -87,7 +86,7 @@ Comprehensive university management system that supports academic and administra
 ---
 
 ### Smart Parking Management System  
-AI-based automation project for real-time parking management using computer vision.  
+AI-based parking automation project using computer vision for real-time vehicle recognition and slot monitoring.  
 **Stack:** Python · OpenCV · MySQL  
 **Role:** System Developer  
 
@@ -97,29 +96,29 @@ AI-based automation project for real-time parking management using computer visi
 
 ---
 
-## 🏅 Certifications
+## Certifications
 
 - Certified Web Developer — Web Development Institute  
 - JavaScript Developer Certification — Tech Academy  
-- English B2 Certificate — Internationally Validated  
+- English B2 Certificate — International Validation  
 - Certificate in Accounting Management — Complementary Training  
 
 ---
 
-## 🧩 Soft Skills
+## Soft Skills
 
 Problem Solving · Team Collaboration · Adaptability · Communication · Time Management  
 
 ---
 
-## 🌐 Languages
+## Languages
 
 - Spanish — Native  
 - English — B2 (Technical communication and reading)  
 
 ---
 
-## ⚙️ Tech Stack Overview
+## GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goldendora&layout=compact&theme=tokyonight&hide_border=true" />
@@ -128,7 +127,7 @@ Problem Solving · Team Collaboration · Adaptability · Communication · Time M
 
 ---
 
-## 📫 Contact
+## Contact
 
 - **Email:** [jdoradoosorio7@gmail.com](mailto:jdoradoosorio7@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/juan-esteban-dorado-osorio-7207a2259](https://linkedin.com/in/juan-esteban-dorado-osorio-7207a2259)  
