@@ -149,5 +149,5 @@ English — B2 (Technical communication and reading)
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:405EFF&height=120&section=footer" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Goldendora&show_icons=true&include_all_commits=true&count_private=true&theme
 </p>
