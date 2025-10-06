@@ -24,18 +24,6 @@ Strong collaborator with excellent problem-solving and communication skills, eag
 <h2 align="center">Technical Skills</h2>
 
 <p align="center">
-
-| Category | Technologies |
-|-----------|---------------|
-| **Front-End** | HTML5 · CSS3 · JavaScript (ES6+) · Responsive Design · Bootstrap |
-| **Back-End** | PHP · Laravel Framework · MySQL · RESTful APIs |
-| **Version Control** | Git · GitHub |
-| **Tools** | Visual Studio Code · Postman · Figma · XAMPP |
-| **Other** | Java (basic) · Node.js (basic) · Office 365 Cloud Tools |
-
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,bootstrap,git,github,figma,vscode,postman" />
 </p>
 
