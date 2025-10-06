@@ -11,15 +11,19 @@
 
 ---
 
-## About Me
+<h2 align="center">About Me</h2>
 
-I am a dedicated and detail-oriented web developer with solid experience in front-end and back-end technologies.  
-Focused on building scalable, efficient, and user-friendly web applications using Laravel, JavaScript, and MySQL.  
+<p align="center">
+I am a dedicated and detail-oriented web developer with solid experience in front-end and back-end technologies.<br>
+Focused on building scalable, efficient, and user-friendly web applications using <b>Laravel</b>, <b>JavaScript</b>, and <b>MySQL</b>.<br>
 Strong collaborator with excellent problem-solving and communication skills, eager to learn and adapt to new technologies.
+</p>
 
 ---
 
-## Technical Skills
+<h2 align="center">Technical Skills</h2>
+
+<p align="center">
 
 | Category | Technologies |
 |-----------|---------------|
@@ -29,7 +33,7 @@ Strong collaborator with excellent problem-solving and communication skills, eag
 | **Tools** | Visual Studio Code · Postman · Figma · XAMPP |
 | **Other** | Java (basic) · Node.js (basic) · Office 365 Cloud Tools |
 
-
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,bootstrap,git,github,figma,vscode,postman" />
@@ -37,82 +41,114 @@ Strong collaborator with excellent problem-solving and communication skills, eag
 
 ---
 
-## Professional Experience
+<h2 align="center">Professional Experience</h2>
 
-### Web Developer — Universidad Santiago de Cali (DGI Project)  
-**2024 – Present**
+<p align="center">
+<b>Web Developer — Universidad Santiago de Cali (DGI Project)</b><br>
+<em>2024 – Present</em>
+</p>
 
-Contributing to the university’s Information Management System, focusing on optimization, module development, and user experience.  
+<p align="center">
+Contributing to the university’s Information Management System, focusing on optimization, module development, and user experience.
+</p>
 
-**Responsibilities:**  
-- Developed scalable and modular front-end and back-end components using Laravel and JavaScript.  
-- Enhanced performance with optimized database queries and reusable architecture.  
-- Collaborated with departments to improve usability and workflow efficiency.  
-- Managed Git-based workflows for version control and collaboration.
-
----
-
-### Freelance Developer  
-**2022 – 2023**
-
-Developed web solutions for small businesses, including landing pages and inventory management systems.  
-
-**Highlights:**  
-- Designed responsive, modern interfaces with clean UI/UX principles.  
-- Delivered full PHP and MySQL solutions.  
-- Improved SEO performance and accessibility for clients.
+<p align="center">
+<b>Responsibilities:</b><br>
+Developed scalable and modular front-end and back-end components using Laravel and JavaScript.<br>
+Enhanced performance with optimized database queries and reusable architecture.<br>
+Collaborated with departments to improve usability and workflow efficiency.<br>
+Managed Git-based workflows for version control and collaboration.
+</p>
 
 ---
 
-## Education
+<p align="center">
+<b>Freelance Developer</b><br>
+<em>2022 – 2023</em>
+</p>
 
-**Technologist in Systems** — Universidad Santiago de Cali  
-**2021 – Present**
+<p align="center">
+Developed web solutions for small businesses, including landing pages and inventory management systems.
+</p>
 
-Focus: Software Development, Databases, and Web Technologies.  
-Currently developing the degree project *Smart Parking Management System with Computer Vision* (Python + OpenCV + MySQL).
-
----
-
-## Projects
-
-### DGI – Information Management System  
-Comprehensive university management system supporting academic and administrative processes.  
-**Stack:** Laravel · JavaScript · Bootstrap  
-**Role:** Front-end Developer  
-
----
-
-### Smart Parking Management System  
-AI-based parking automation project using computer vision for real-time vehicle recognition and slot monitoring.  
-**Stack:** Python · OpenCV · MySQL  
-**Role:** System Developer  
+<p align="center">
+<b>Highlights:</b><br>
+Designed responsive, modern interfaces with clean UI/UX principles.<br>
+Delivered full PHP and MySQL solutions.<br>
+Improved SEO performance and accessibility for clients.
+</p>
 
 ---
 
-## Certifications
+<h2 align="center">Education</h2>
 
-- Certified Web Developer — Web Development Institute  
-- JavaScript Developer Certification — Tech Academy  
-- English B2 Certificate — International Validation  
-- Certificate in Accounting Management — Complementary Training  
-
----
-
-## Soft Skills
-
-Problem Solving · Team Collaboration · Adaptability · Communication · Time Management  
+<p align="center">
+<b>Technologist in Systems</b> — Universidad Santiago de Cali<br>
+<em>2021 – Present</em><br><br>
+Focus: Software Development, Databases, and Web Technologies.<br>
+Currently developing the degree project <b>Smart Parking Management System with Computer Vision</b><br>
+(Python + OpenCV + MySQL)
+</p>
 
 ---
 
-## Languages
+<h2 align="center">Projects</h2>
 
-- Spanish — Native  
-- English — B2 (Technical communication and reading)  
+<p align="center">
+<b>DGI – Information Management System</b><br>
+Comprehensive university management system supporting academic and administrative processes.<br>
+<b>Stack:</b> Laravel · JavaScript · Bootstrap<br>
+<b>Role:</b> Front-end Developer
+</p>
+
+<p align="center">
+  <img src="https://github.com/Goldendora/Goldendora/assets/placeholder-dgi.png" width="80%" alt="DGI Project Preview" />
+</p>
 
 ---
 
-## GitHub Insights
+<p align="center">
+<b>Smart Parking Management System</b><br>
+AI-based parking automation project using computer vision for real-time vehicle recognition and slot monitoring.<br>
+<b>Stack:</b> Python · OpenCV · MySQL<br>
+<b>Role:</b> System Developer
+</p>
+
+<p align="center">
+  <img src="https://github.com/Goldendora/Goldendora/assets/placeholder-parking.png" width="80%" alt="Smart Parking System" />
+</p>
+
+---
+
+<h2 align="center">Certifications</h2>
+
+<p align="center">
+Certified Web Developer — Web Development Institute<br>
+JavaScript Developer Certification — Tech Academy<br>
+English B2 Certificate — International Validation<br>
+Certificate in Accounting Management — Complementary Training
+</p>
+
+---
+
+<h2 align="center">Soft Skills</h2>
+
+<p align="center">
+Problem Solving · Team Collaboration · Adaptability · Communication · Time Management
+</p>
+
+---
+
+<h2 align="center">Languages</h2>
+
+<p align="center">
+Spanish — Native<br>
+English — B2 (Technical communication and reading)
+</p>
+
+---
+
+<h2 align="center">GitHub Insights</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goldendora&layout=compact&theme=tokyonight&hide_border=true" />
@@ -121,14 +157,17 @@ Problem Solving · Team Collaboration · Adaptability · Communication · Time M
 
 ---
 
-## Contact
+<h2 align="center">Contact</h2>
 
-- **Email:** [jdoradoosorio7@gmail.com](mailto:jdoradoosorio7@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/juan-esteban-dorado-osorio-7207a2259](https://linkedin.com/in/juan-esteban-dorado-osorio-7207a2259)  
-- **GitHub:** [github.com/Goldendora](https://github.com/Goldendora)  
+<p align="center">
+<b>Email:</b> <a href="mailto:jdoradoosorio7@gmail.com">jdoradoosorio7@gmail.com</a><br>
+<b>LinkedIn:</b> <a href="https://linkedin.com/in/juan-esteban-dorado-osorio-7207a2259">linkedin.com/in/juan-esteban-dorado-osorio-7207a2259</a><br>
+<b>GitHub:</b> <a href="https://github.com/Goldendora">github.com/Goldendora</a>
+</p>
 
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:405EFF&height=120&section=footer" />
 </p>
+
