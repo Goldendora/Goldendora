@@ -132,9 +132,9 @@ English — B2 (Technical communication and reading)
 <h2 align="center">GitHub Insights</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goldendora&layout=compact&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Goldendora&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Goldendora&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
@@ -147,6 +147,7 @@ English — B2 (Technical communication and reading)
 </p>
 
 ---
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Goldendora&theme=tokyonight&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:405EFF&height=120&section=footer" />
 </p>
