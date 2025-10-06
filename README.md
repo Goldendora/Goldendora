@@ -29,6 +29,8 @@ Strong collaborator with excellent problem-solving and communication skills, eag
 | **Tools** | Visual Studio Code · Postman · Figma · XAMPP |
 | **Other** | Java (basic) · Node.js (basic) · Office 365 Cloud Tools |
 
+
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,bootstrap,git,github,figma,vscode,postman" />
 </p>
@@ -76,12 +78,8 @@ Currently developing the degree project *Smart Parking Management System with Co
 
 ### DGI – Information Management System  
 Comprehensive university management system supporting academic and administrative processes.  
-**Stack:** Laravel · JavaScript · MySQL · Bootstrap  
-**Role:** Full-Stack Developer  
-
-<p align="center">
-  <img src="https://github.com/Goldendora/Goldendora/assets/placeholder-dgi.png" width="80%" alt="DGI Project Preview" />
-</p>
+**Stack:** Laravel · JavaScript · Bootstrap  
+**Role:** Front-end Developer  
 
 ---
 
@@ -89,10 +87,6 @@ Comprehensive university management system supporting academic and administrativ
 AI-based parking automation project using computer vision for real-time vehicle recognition and slot monitoring.  
 **Stack:** Python · OpenCV · MySQL  
 **Role:** System Developer  
-
-<p align="center">
-  <img src="https://github.com/Goldendora/Goldendora/assets/placeholder-parking.png" width="80%" alt="Smart Parking System" />
-</p>
 
 ---
 
@@ -132,7 +126,6 @@ Problem Solving · Team Collaboration · Adaptability · Communication · Time M
 - **Email:** [jdoradoosorio7@gmail.com](mailto:jdoradoosorio7@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/juan-esteban-dorado-osorio-7207a2259](https://linkedin.com/in/juan-esteban-dorado-osorio-7207a2259)  
 - **GitHub:** [github.com/Goldendora](https://github.com/Goldendora)  
-- **Portfolio:** Coming soon...
 
 ---
 
