@@ -147,7 +147,6 @@ English — B2 (Technical communication and reading)
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Goldendora&show_icons=true&include_all_commits=true&count_private=true&theme
+  <img src="https://streak-stats.demolab.com?user=Goldendora&theme=tokyonight&hide_border=true" />
 </p>
