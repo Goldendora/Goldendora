@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <b>Full-Stack Web Developer — Laravel • JavaScript • MySQL</b><br>
-  Open to remote opportunities in international development teams.
+  <b>Front-End Web Developer — Laravel • JavaScript • Bootstrap</b><br>
+  Focused on building responsive, scalable, and user-friendly web interfaces.
 </p>
 
 ---
@@ -14,9 +14,9 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-I am a dedicated and detail-oriented web developer with solid experience in front-end and back-end technologies.<br>
-Focused on building scalable, efficient, and user-friendly web applications using <b>Laravel</b>, <b>JavaScript</b>, and <b>MySQL</b>.<br>
-Strong collaborator with excellent problem-solving and communication skills, eager to learn and adapt to new technologies.
+I am a dedicated and detail-oriented <b>Front-End Web Developer</b> with solid experience creating modern, efficient, and responsive user interfaces.<br>
+Specialized in <b>JavaScript, Bootstrap, and Laravel Blade templating</b> to build interactive and scalable web solutions.<br>
+Collaborative, adaptable, and committed to improving the user experience through clean and maintainable code.
 </p>
 
 ---
@@ -24,7 +24,7 @@ Strong collaborator with excellent problem-solving and communication skills, eag
 <h2 align="center">Technical Skills</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,bootstrap,git,github,figma,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,laravel,git,github,figma,vscode,postman&perline=5" width="80%" style="max-width:800px;" />
 </p>
 
 ---
@@ -32,38 +32,38 @@ Strong collaborator with excellent problem-solving and communication skills, eag
 <h2 align="center">Professional Experience</h2>
 
 <p align="center">
-<b>Web Developer — Universidad Santiago de Cali (DGI Project)</b><br>
+<b>Front-End Developer — Universidad Santiago de Cali (DGI Project)</b><br>
 <em>2024 – Present</em>
 </p>
 
 <p align="center">
-Contributing to the university’s Information Management System, focusing on optimization, module development, and user experience.
+Contributing to the university’s <b>Information Management System</b> (DGI Project) by designing and developing responsive user interfaces that enhance the user experience and system usability.
 </p>
 
 <p align="center">
 <b>Responsibilities:</b><br>
-Developed scalable and modular front-end and back-end components using Laravel and JavaScript.<br>
-Enhanced performance with optimized database queries and reusable architecture.<br>
-Collaborated with departments to improve usability and workflow efficiency.<br>
-Managed Git-based workflows for version control and collaboration.
+Developed and maintained reusable front-end components using JavaScript, Bootstrap, and Blade.<br>
+Implemented responsive layouts compatible with multiple devices and screen sizes.<br>
+Collaborated with back-end developers to ensure seamless data integration.<br>
+Participated in UI/UX improvement processes for academic and administrative modules.
 </p>
 
 ---
 
 <p align="center">
-<b>Freelance Developer</b><br>
+<b>Freelance Front-End Developer</b><br>
 <em>2022 – 2023</em>
 </p>
 
 <p align="center">
-Developed web solutions for small businesses, including landing pages and inventory management systems.
+Designed and developed custom websites and interfaces for small businesses, focusing on usability and responsive design.
 </p>
 
 <p align="center">
 <b>Highlights:</b><br>
-Designed responsive, modern interfaces with clean UI/UX principles.<br>
-Delivered full PHP and MySQL solutions.<br>
-Improved SEO performance and accessibility for clients.
+Created fast, lightweight, and accessible landing pages.<br>
+Optimized designs for SEO and performance.<br>
+Worked closely with clients to translate ideas into functional designs.
 </p>
 
 ---
@@ -84,27 +84,20 @@ Currently developing the degree project <b>Smart Parking Management System with 
 
 <p align="center">
 <b>DGI – Information Management System</b><br>
-Comprehensive university management system supporting academic and administrative processes.<br>
-<b>Stack:</b> Laravel · JavaScript · Bootstrap<br>
-<b>Role:</b> Front-end Developer
-</p>
-
-<p align="center">
-  <img src="https://github.com/Goldendora/Goldendora/assets/placeholder-dgi.png" width="80%" alt="DGI Project Preview" />
+Front-end development for the university's institutional information system, implementing modern interfaces for academic and administrative modules.<br>
+<b>Stack:</b> JavaScript · Bootstrap · Blade (Laravel)<br>
+<b>Role:</b> Front-End Developer
 </p>
 
 ---
 
 <p align="center">
 <b>Smart Parking Management System</b><br>
-AI-based parking automation project using computer vision for real-time vehicle recognition and slot monitoring.<br>
+AI-based automation project using computer vision for real-time vehicle recognition and slot monitoring.<br>
 <b>Stack:</b> Python · OpenCV · MySQL<br>
 <b>Role:</b> System Developer
 </p>
 
-<p align="center">
-  <img src="https://github.com/Goldendora/Goldendora/assets/placeholder-parking.png" width="80%" alt="Smart Parking System" />
-</p>
 
 ---
 
@@ -158,4 +151,3 @@ English — B2 (Technical communication and reading)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:405EFF&height=120&section=footer" />
 </p>
-
